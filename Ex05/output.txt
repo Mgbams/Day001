@@ -1,0 +1,4 @@
+output.txt
+Mer 20 oct 2021 12:10:08 CEST
+admin    console  Oct 20 11:04 
+admin    ttys000  Oct 20 11:05 
