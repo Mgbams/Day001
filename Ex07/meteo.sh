@@ -1,1 +1,3 @@
-alias meteo="curl http://wttr.in/lyon"
+shopt -s expand_aliases
+alias meteo='curl wttr.in/lyon'
+meteo
