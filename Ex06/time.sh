@@ -1,2 +1,2 @@
-echo -n "Nous sommes le "
-date
+date=$(date)
+echo "\"Nous sommes le" $date"\""
