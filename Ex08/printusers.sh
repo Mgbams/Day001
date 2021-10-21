@@ -1,1 +1,1 @@
- grep -oE '^[^:]+' /etc/passwd | sed 's/^_//'
+grep -oE '^[^:]+' /etc/passwd | sed 's/^_//'
